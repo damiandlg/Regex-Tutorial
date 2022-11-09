@@ -1,6 +1,6 @@
 # Regex Tutorial
 
-Regular expressions (regex or regexp) are extremely useful in extracting information from any text by searching for one or more matches of a specific search pattern.ields of application range from validation to parsing/replacing strings, passing through translating data to other formats and web scraping
+Regular expressions (regex or regexp) are extremely useful in extracting information from any text by searching for one or more matches of a specific search pattern.ields of application range from validation to parsing/replacing strings, passing through translating data to other formats and web scraping.
 
 ## Summary
 
@@ -23,7 +23,7 @@ The purpose of this is to explain Regex through an Email example. I will be usin
 ## Regex Components
 
 ### Anchors
-
+. ^ and $ - represent the start (^) and the end ($) of the expression.
 ### Quantifiers
 
 ### OR Operator
