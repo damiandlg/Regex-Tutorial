@@ -1,6 +1,6 @@
 # Regex Tutorial
 
-The purpose of this is to explain Regex through an Email example.
+Regular expressions (regex or regexp) are extremely useful in extracting information from any text by searching for one or more matches of a specific search pattern.ields of application range from validation to parsing/replacing strings, passing through translating data to other formats and web scraping
 
 ## Summary
 
