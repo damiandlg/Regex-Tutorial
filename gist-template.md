@@ -14,28 +14,29 @@ The purpose of this is to explain Regex through an Email example. I will be usin
 - [Character Classes](#character-classes)
 - [Flags](#flags)
 - [Grouping and Capturing](#grouping-and-capturing)
-- [Bracket Expressions](#bracket-expressions)
+- [Escaped Expressions](#escaped-expressions)
 - [Greedy and Lazy Match](#greedy-and-lazy-match)
 - [Boundaries](#boundaries)
 - [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
-
+Lets start simple +@ means "plus @ sign". turotial(+@)aol.com
 ### Anchors
-. ^ and $ - represent the start (^) and the end ($) of the expression.
+>  ^ and $ - represent the start (^) and the end ($) of the expression.
 ### Quantifiers
 
 ### OR Operator
-
+> {2,6} matches a . followed by two or three word characters, e.g., ".com", ".edu", ".us", ".uk", ".co".
 ### Character Classes
-
+> The sub-expression [a-z0-9_\.-]+) is used to match the username in the email, before the @ sign. It begins with at least one word character [a-zA-Z0-9_], followed by more word characters or . or -. 
 ### Flags
 
 ### Grouping and Capturing
 
-### Bracket Expressions
+### Escaped Expressions
 
+The backslash (\)in a regular expression precedes a literal character. You also escape certain letters that represent common character classes, such as \w for a word character or \s for a space.
 ### Greedy and Lazy Match
 
 ### Boundaries
@@ -46,4 +47,4 @@ The purpose of this is to explain Regex through an Email example. I will be usin
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Damian De La Garza and I hope this tutorial was as benifical as it was for me. Dont hesitate to reach out +@ :) github.com/damindlg 
