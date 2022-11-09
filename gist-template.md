@@ -47,4 +47,4 @@ The backslash (\)in a regular expression precedes a literal character. You also 
 
 ## Author
 
-My name is Damian De La Garza and I hope this tutorial was as benifical as it was for me. Dont hesitate to reach out +@ :) github.com/damindlg 
+My name is Damian De La Garza and I hope this tutorial was as benifical as it was for me. Dont hesitate to reach out +@ :) github.com/damindlg, if youd like to comment or add functionaloity please feel free at https://gist.github.com/damiandlg/0cfa70a6947e6cd3e1ab3b12ed301179
